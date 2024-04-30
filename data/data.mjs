@@ -26,7 +26,7 @@ const data = [
     },
  {
         id: 3,
-        imgLocker: `./imgs/locker2.jpg`,
+        imgLocker: `./imgs/locker3.jpg`,
         title: `offer 3`,
         description: `
            aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
